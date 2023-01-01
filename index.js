@@ -55,8 +55,7 @@ genBtn.addEventListener('click', generatePasswords);
 const copyToClipboard = (e) => {
     let copytxt = e.target.innerText;
     copytxt = navigator.clipboard.writeText(copytxt);
-    alert(`${e.target.classList[1]} copied to clipboard!`);
-    return copytxt;
+    return copytxt, alert(`${e.target.classList[1]} copied to clipboard!`);
 }
 
 
