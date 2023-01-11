@@ -12,4 +12,4 @@ created as a solo project during Scrimba JS course.
     - numbers
     - combination of all above
 
-Please find the link to figma project [here](https://www.figma.com/file/jQagtdEcZ2NykC8TCij3al/Random-Password-Generator-(New-version)-(Copy)?node-id=0%3A1&t=iA04JVqsJGP32mQw-0)
+Please find the link to figma project [here](https://www.figma.com/file/jQagtdEcZ2NykC8TCij3al/Random-Password-Generator-(New-version)-(Copy)?node-id=0%3A1&t=iA04JVqsJGP32mQw-0){:target="_blank" rel="noopener"}
